@@ -1,3 +1,5 @@
+## Hi there! I'm Matheus, brazilian IT Student, I'm looking for job, intern or trainee applications, if you want to have me, contact me below:
+
 <div> 
   <a href="https://www.youtube.com/channel/UCNCoS9iC3PVZyrUgiCUN_PQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/matthves/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

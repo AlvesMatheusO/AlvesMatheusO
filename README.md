@@ -1,4 +1,4 @@
-## Hi everyone! I’m Matheus, a Computer Science Graduate and Mobile Developer based in Brazil. I am currently seeking new opportunities as a Mobile Developer Trainee or Junior Developer, specializing in React Native and Android (Kotlin). With a background in building scalable health-tech solutions and a deep interest in AI, I’m ready to contribute to a high-performing engineering team.
+## Hi everyone! I’m Matheus, a Computer Science Graduate and Software Developer based in Brazil. I am currently seeking new opportunities. With a background in building scalable health-tech solutions and a deep interest in AI, I’m ready to contribute to a high-performing engineering team.
 <div> 
   <a href="https://www.youtube.com/channel/UCNCoS9iC3PVZyrUgiCUN_PQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/matthves/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
